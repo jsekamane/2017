@@ -19,7 +19,7 @@ The midterm is a take home exam. You have to pass the midterm in order to be adm
 Please check whether you have passed the midterm in [[https://github.com/MechDes/2017/files/902107/Mechanism.Design_web.pdf][this form]]. 
 
 ** Exam
-The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am, 2017. This is an individual exam (i.e. no groups). The exam is available via "Digital Exam".
+The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am, 2017. This is an individual exam (i.e. no groups). The exam is available via ["Digital Exam"](http://eksamen.ku.dk/).
 
 
 * Material
